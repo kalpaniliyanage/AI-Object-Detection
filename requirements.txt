@@ -1,0 +1,14 @@
+
+---
+
+# 2. requirements.txt
+
+```txt
+ultralytics
+opencv-python
+pyttsx3
+torch
+torchvision
+numpy
+Pillow
+clip-anytorch
